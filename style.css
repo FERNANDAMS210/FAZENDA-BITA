@@ -279,7 +279,7 @@ button:hover {
 
 .sobre-texto {
     font-size: 29px;
-    color: #ffffff;
+    color: #000000;
     margin-bottom: 20px;
     padding: 0 10px;
 }
@@ -444,4 +444,5 @@ button:hover {
     background: linear-gradient(90deg, #ff9500, #ffd000);
     transform: scale(1.08);
 }
+
 
